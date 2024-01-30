@@ -4,3 +4,5 @@ git commit
 git push origin main
 git status
 git branch
+i learned github today in this lab of cs102
+i learned about various commands as mentioned above 
